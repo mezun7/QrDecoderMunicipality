@@ -1,6 +1,6 @@
 # QrDecoderMunicipality
 
-#Instalation
+## Instalation
 
 There is need to install CV4.
 MAC: https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/
